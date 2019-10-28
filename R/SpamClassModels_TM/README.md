@@ -3,7 +3,8 @@
 </p>
 
 <hr>
- # Data Science: Comparison of binary text classification models with pca and the caret R library 
+
+# Data Science: Comparison of binary text classification models with pca and the caret R library 
  
 This article is about an application of several supervised learning algorithms to the text classification problem, evaluating and selecting the best of them according to a precision measurement (accuracy score) and the caret R-project library.
 
