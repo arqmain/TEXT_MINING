@@ -18,7 +18,7 @@ The specifics objectives are:
 2) Configure and run the models.<br>
 3) Compare the performance of the models to classify the text data.<br>
 4) Select the best model based on its accuracy score.<br>
- 5) Present the selected model and use it to make predictions.</i></b><br>
+5) Present the selected model and use it to make predictions.</i></b><br>
 
 There are many fields where the binary text classification models idea can be addressed. The method and models applied in this project could be extrapolated to various situations and problems typical of human development in general, and scientific research in particular. Research Analysis in all its wide range of possibilities is especially benefited with the implementation and use of the ideas applied to this project, and for sure should have a high value in its daily development.
 
