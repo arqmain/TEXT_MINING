@@ -45,9 +45,6 @@ There are many fields where the binary text classification models idea can be ad
 ### DISCUSSION
 
 <hr>
-
-<hr>
-
 ><i>Hector Alvaro Rojas<br>
 >Data Science, Visualizations and Applied Statistics | August 10, 2019<br>
 >Email: <arqmain2010@gmail.com> <br>
