@@ -24,7 +24,7 @@ The study of the evolution of the topics over time is a very interesting analysi
 
 There are many fields where the Topic Modeling idea can be addressed. The method applied in this project could be extrapolated to various situations and problems typical of human development in general, and scientific research in particular. Research Analysis in all its wide range of possibilities is especially benefited with the implementation and use of the ideas applied to this project, and for sure should have a high value in its daily development.
 
-## TABLE OF CONTENTS   (  [  Link to project results ](http://arqmain.net/Researches/Researchs/TMining/R/NLP/TModels/topicmodels/LDA_Amazon_Reviews.html)
+## TABLE OF CONTENTS   (  [  Link to project results ](http://arqmain.net/Researches/Researchs/TMining/R/NLP/TModels/topicmodels/LDA_Amazon_Reviews.html))
 
 ### WHAT IS IT ALL ABOUT?
 
@@ -41,7 +41,7 @@ There are many fields where the Topic Modeling idea can be addressed. The method
 
 ### OVERVIEWING, CONFIGURING AND RUNNING THE LDA MODEL
 #### OVERVIEW
-##### GENERALITIES
+##### <i>GENERALITIES</i>
 ##### HYPERPARAMETERS AND OPERATION OF LDA
 #### CONFIGURE MODEL
 #### RUN MODEL
