@@ -41,8 +41,8 @@ There are many fields where the Topic Modeling idea can be addressed. The method
 
 ### OVERVIEWING, CONFIGURING AND RUNNING THE LDA MODEL
 #### OVERVIEW
-##### <i>GENERALITIES</i>
-##### HYPERPARAMETERS AND OPERATION OF LDA
+###### GENERALITIES
+###### HYPERPARAMETERS AND OPERATION OF LDA
 #### CONFIGURE MODEL
 #### RUN MODEL
 
