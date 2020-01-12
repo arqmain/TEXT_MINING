@@ -10,7 +10,7 @@ This article is about an application of Text Mining to the  Amazon Reviews, gett
 
 Quanteda and Topicsmodels are R libraries that provide us with a lot of support and very practical options to be used when we need to perform Text Mining. With these two libraries, you can develop classical text mining, sentiment analysis, and topic modeling quickly and easily. If you also add Tidytext and TM to these two, you will get a very powerful set of tools to perform high-quality text mining that will allow you to cover the most common and frequent everyday problems in this field.
 
-The data wrangling and modeling are covered by using R base with various libraries but, preferably, xlsx, dplyr, tm, topicmodels, tidytext, tidyverse, gridExtra, grid.. The visualization of the results is generated through ggplot2 or some of its extensions.
+The data wrangling and data processing are covered with various libraries but, preferably, dplyr, tydiverse, lubridate, tidytext, reshape2, quanteda, topicmodels, and stm. The visualization of the results is generated through gridExtra, viridis, ggplot2 or some of its extensions.
 
 The specifics objectives are:
 <b><i>
