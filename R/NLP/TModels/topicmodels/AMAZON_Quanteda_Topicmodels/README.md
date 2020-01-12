@@ -20,7 +20,7 @@ The specifics objectives are:
 </i>
 </b>
 
-Specifics methods of text mining have been applied to develop this article. Using quanteda allows us to easily perform frequent natural language processing tasks that appear to be easy both to apply and to get useful results. That is one of the more important characteristics of quanteda, which makes it position itself as one of the most efficient packages for text mining in the r project environment.
+Specifics methods of text mining have been applied to develop this article. Using quanteda allows us to easily perform frequent text mining processing tasks that appear to be easy both to apply and to get useful results. That is one of the more important characteristics of quanteda, which makes it position itself as one of the most efficient packages for text mining in the r project environment.
 
 There are many fields where the Topic Modeling idea can be addressed. The method applied in this project could be extrapolated to various situations and problems typical of human development in general, and scientific research in particular. Research Analysis in all its wide range of possibilities is especially benefited with the implementation and use of the ideas applied to this project, and for sure should have a high value in its daily development.
 
