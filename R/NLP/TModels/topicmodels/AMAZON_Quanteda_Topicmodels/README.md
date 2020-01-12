@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="http://arqmain.net/Researches/Researchs/TMining/R/NLP/TModels/topicmodels/images/LDA00.png">
+<img  src="http://arqmain.net/Researches/Researchs/TMining/R/NLP/TModels/AMAZON_Quanteda_Topicmodels/visualizations/TEXTMining2.png">
 </p>
 
 <hr>
