@@ -82,9 +82,9 @@ There are many fields where the Topic Modeling idea can be addressed. The method
 
 ### DISCUSSION
 
+<br>
 
 <hr>
-
 ><i>Hector Alvaro Rojas<br>
 >Data Science, Visualizations and Applied Statistics | January 11, 2020<br>
 >Email: <arqmain2010@gmail.com> <br>
