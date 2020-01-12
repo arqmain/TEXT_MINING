@@ -26,6 +26,7 @@ Although the concepts and statistical theory that underlie some methods used her
 
 Anyway, I strongly recommend applying Alfred, Lord Tennyson's famous quote in this context. This is: "It is always better to have tried to learn more statistics and lost in the attempt than never to have tried to learn statistics at all".
 <br>
+<br>
 
 ## TABLE OF CONTENTS   (  [  Link to project results ](http://arqmain.net/Researches/Researchs/TMining/R/NLP/TModels/AMAZON_Quanteda_Topicmodels/AMAZON_TMining_Quanteda_Topicmodels_LDA.html))
 
