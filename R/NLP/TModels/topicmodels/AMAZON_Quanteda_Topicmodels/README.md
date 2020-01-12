@@ -25,6 +25,7 @@ Specifics methods of text mining have been applied to develop this article. Usin
 Although the concepts and statistical theory that underlie some methods used here are not addressed in this project, an overview of the concepts and their direct scope in this project is given. However, adequate links are provided that would allow the reader to access the statistical foundations of these methods in case it so requires.
 
 Anyway, I strongly recommend applying Alfred, Lord Tennyson's famous quote in this context. This is: "It is always better to have tried to learn more statistics and lost in the attempt than never to have tried to learn statistics at all".
+<br>
 
 ## TABLE OF CONTENTS   (  [  Link to project results ](http://arqmain.net/Researches/Researchs/TMining/R/NLP/TModels/AMAZON_Quanteda_Topicmodels/AMAZON_TMining_Quanteda_Topicmodels_LDA.html))
 
