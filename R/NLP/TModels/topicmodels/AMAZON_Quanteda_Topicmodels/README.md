@@ -88,9 +88,6 @@ There are many fields where the Topic Modeling idea can be addressed. The method
 >
 
 <i>Hector Alvaro Rojas<br>
-
 >Data Science, Visualizations and Applied Statistics | January 11, 2020<br>
-
 >Email: <arqmain2010@gmail.com> <br>
-
 >Url: [http://www.arqmain.net]   |  GitHub: [https://github.com/arqmain]</i>
