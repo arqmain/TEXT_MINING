@@ -1,1 +1,72 @@
+## TABLE OF CONTENTS   (  [  Link to project results ]
 
+(http://arqmain.net/Researches/Researchs/TMining/R/NLP/TModels/AMAZON_Quanteda_Topicmodels/AMAZON_TMining_Quanteda_Topicmodels_LDA.html))
+
+
+### WHAT IS IT ALL ABOUT?
+
+### DATA SOURCE  AND  R PACKAGES
+#### DATA SOURCE
+#### R PACKAGES
+
+### FEATURE ENGINEERING AND FINAL DATASET
+#### CREATION OF NEW VARIABLES
+#### FINAL DATASET
+
+### THE DATA 
+
+### THE CORPUS
+#### GETTING THE CORPUS
+#### GETTING SOME CORPUS STATS
+#### VISUALIZING CORPUS STATS TOKENS
+#### VISUALIZING, TYPES, TOKENS, AND SENTENCES
+#### VISUALIZING TYPE-TOKEN RATIO (TTR)
+#### VISUALIZING CORPUS COMPONENTS DISTRIBUTION
+
+### SOME CORPUS DATA MANAGEMENT RESULTS
+#### RESHAPING CORPUS
+##### RESHAPING to "sentences"
+##### RESHAPING to "paragraphs"
+#### USING GROUPED CORPUS
+##### GETTING THE GROUPED CORPUS
+##### VISUALIZING GROUPED CORPUS
+#### EXPLORING CORPUS TEXTS
+##### UNIGRAMS:
+##### MULTI-WORD ESPRESSIONS
+###### Bigrams:
+###### Trigrams:
+#### WORKING WITH DICTIONARIES
+##### SIMPLE DICTIONARY
+##### SIMPLE DICTIONARY RESULTS IN PERCENTAGE
+##### SIMPLE DICTIONARY RESULTS VISUALIZATION
+
+### SOME ADVANCED OPERATIONS
+#### WORD AND DOCUMENT SIMILARITIES
+##### WORD OR TERM SIMILARITIES
+##### DOCUMENTS (REVIEWS) SIMILARITIES
+#### TARGETED DICTIONARY ANALYSIS
+##### THROUGH THE PAGES
+##### THROUGH THE YEARS
+#### RELATIVE FREQUENCY ANALYSIS (KEYNESS)
+#### LEXICAL DIVERSITY
+#### SIMILARITY BETWEN DOCUMENTS
+#### CORRESPONDENCE ANALYSIS (CA)
+#### TOPIC MODELS
+##### LDA: Latent Dirichlet Allocation 
+##### STM: Structural Topic Model 
+##### LSA: Latent Semantic Analysis
+
+### DISCUSSION
+
+
+<hr>
+
+>
+
+<i>Hector Alvaro Rojas<br>
+
+>Data Science, Visualizations and Applied Statistics | January 11, 2019<br>
+
+>Email: <arqmain2010@gmail.com> <br>
+
+>Url: [http://www.arqmain.net]   |  GitHub: [https://github.com/arqmain]</i>
