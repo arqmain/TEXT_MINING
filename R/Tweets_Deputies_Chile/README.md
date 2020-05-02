@@ -1,4 +1,4 @@
-# Data Science: Some Results of Text Mining on Tweets Deputies Chile 2018
+# Text Mining: Some Results of Text Mining on Tweets Deputies Chile 2018
 
 <br>
 
